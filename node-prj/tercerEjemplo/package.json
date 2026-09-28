@@ -1,0 +1,21 @@
+{
+  "name": "primerejemplo",
+  "version": "1.0.0",
+  "description": "Esta es la primera practica usando NodeJS para montar un servidor. Creo que debo instalar Express",
+  "keywords": [
+    "node",
+    "js",
+    "tcp",
+    "express"
+  ],
+  "license": "ISC",
+  "author": "Yo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

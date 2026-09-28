@@ -1,0 +1,171 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.3" pages="3">
+  <diagram name="Página-1" id="8U8qi1JBp9FT7cSYCRmQ">
+    <mxGraphModel dx="824" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e30lmK_srAMneEVQo3GD-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" value="BSS1" vertex="1">
+          <mxGeometry height="400" width="100" x="90" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e30lmK_srAMneEVQo3GD-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" value="MSC-A" vertex="1">
+          <mxGeometry height="400" width="100" x="220" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e30lmK_srAMneEVQo3GD-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="MSC-B" vertex="1">
+          <mxGeometry height="400" width="100" x="350" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e30lmK_srAMneEVQo3GD-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="BSS-2" vertex="1">
+          <mxGeometry height="400" width="100" x="480" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e30lmK_srAMneEVQo3GD-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" value="MS" vertex="1">
+          <mxGeometry height="380" width="100" x="740" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e30lmK_srAMneEVQo3GD-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="VLR-B" vertex="1">
+          <mxGeometry height="400" width="100" x="610" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-1" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Solicitud de Handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="139.5" y="120" as="sourcePoint" />
+            <mxPoint x="269.5" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-2" edge="1" parent="1" source="e30lmK_srAMneEVQo3GD-2" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Realizar handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="290" y="130" as="sourcePoint" />
+            <mxPoint x="399.5" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-3" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Alojar número de handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="399.5" y="140" as="sourcePoint" />
+            <mxPoint x="789.5" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-5" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Solicitud de Handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="399.5" y="170" as="sourcePoint" />
+            <mxPoint x="529.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-6" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Mandar reporte de handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="789.5" y="189.5" as="sourcePoint" />
+            <mxPoint x="399.5" y="189.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-8" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="ACK de slicitud de handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="529.5" y="210" as="sourcePoint" />
+            <mxPoint x="399.5" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-10" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Canal de radio ACK">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="399.5" y="220" as="sourcePoint" />
+            <mxPoint x="269.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-12" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Dirección de mensaje inicial">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="269.5" y="240" as="sourcePoint" />
+            <mxPoint x="399.5" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-13" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Dirección de mensaje completo">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="399.5" y="260" as="sourcePoint" />
+            <mxPoint x="269.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-15" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Comando de handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="269.5" y="270" as="sourcePoint" />
+            <mxPoint x="139.5" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-17" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Comando de Handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="140" y="280" as="sourcePoint" />
+            <mxPoint x="790" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-18" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Acceso de handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="790" y="300" as="sourcePoint" />
+            <mxPoint x="530" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-20" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Handover detecta información física">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="789.5" y="320" as="sourcePoint" />
+            <mxPoint x="399.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-21" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Handover completo">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="790" y="339" as="sourcePoint" />
+            <mxPoint x="530" y="339" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-24" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Handover completo">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="529.5" y="350" as="sourcePoint" />
+            <mxPoint x="399.5" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-27" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Señal de respuesta">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="399.5" y="360" as="sourcePoint" />
+            <mxPoint x="269.5" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-29" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Mandar señal de término">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="399.5" y="390" as="sourcePoint" />
+            <mxPoint x="269.5" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-30" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Limpiar comando">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="269.5" y="400" as="sourcePoint" />
+            <mxPoint x="139.5" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-32" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Limpiar completo">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="139.5" y="420" as="sourcePoint" />
+            <mxPoint x="269.5" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-34" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Señal de fin">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="269.5" y="430" as="sourcePoint" />
+            <mxPoint x="399.5" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ak7YgR70JioybzUjpPs2-36" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="e30lmK_srAMneEVQo3GD-6" value="Remover reporte de Handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="399.5" y="439" as="sourcePoint" />
+            <mxPoint x="529.5" y="439" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cRRKfe2ZVtTmkDrAlA_b" name="Página-2">
+    <mxGraphModel dx="597" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DJtiHX6ol_IhgXK4hYxy" name="Página-3">
+    <mxGraphModel dx="597" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

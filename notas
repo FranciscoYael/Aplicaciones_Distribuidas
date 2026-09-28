@@ -1,0 +1,27 @@
+docker es el medio mmas usado para hacer deploys de apps actualmente. 
+
+Para manejar un conjunto de dockers, podemos usar kubernetes////
+
+ip en whitelist para entrar al cluster
+148.204.88.244
+
+mongodb+srv://sosasantanaluisemiliano_db_user:QJIVwMe6wUUuU2ap@cluster0.8csy5q4.mongodb.net/?appName=Cluster0
+
+sosasantanaluisemiliano_db_user
+QJIVwMe6wUUuU2ap
+
+Collection = table
+
+cada fila es un documento
+
+Un DBA nunca hace las  operacciones, generalente la delaga a los subordinados, para protegerrse
+
+Tabla audit con campos
+
+Que se hizo
+Quien
+Desde donde
+A que hora
+Cuando
+Quien autoriza
+

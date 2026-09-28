@@ -1,0 +1,48 @@
+Databases:
+ - sample_mflix
+ - admin
+ - local
+Title:  undefined
+Películas encontradas:
+[
+  {
+    "_id": "5a9427648b0beebeb6957a4b",
+    "name": "Gregor Clegane",
+    "email": "hafthór_júlíus_björnsson@gameofthron.es",
+    "movie_id": "573a1390f29313caabcd5b9a",
+    "text": "Voluptatum voluptatem nam et accusamus ullam qui explicabo exercitationem. Ut sint facilis aut similique dolorum non. Necessitatibus unde molestias incidunt asperiores nesciunt molestias.",
+    "date": "2015-02-08T01:28:23.000Z"
+  },
+  {
+    "_id": "5a9427648b0beebeb6957b1a",
+    "name": "Doreah",
+    "email": "roxanne_mckee@gameofthron.es",
+    "movie_id": "573a1391f29313caabcd7850",
+    "text": "Nulla assumenda corporis a impedit. Ratione voluptates veritatis dolorem quod officiis minima. Labore dolor repudiandae voluptatum nam. Dignissimos quo sit sint sint labore similique.",
+    "date": "2001-02-09T20:18:49.000Z"
+  },
+  {
+    "_id": "5a9427648b0beebeb6957b63",
+    "name": "Arya Stark",
+    "email": "maisie_williams@gameofthron.es",
+    "movie_id": "573a1391f29313caabcd7faa",
+    "text": "Voluptatibus voluptas praesentium dignissimos id possimus laudantium tenetur architecto. Molestias molestiae omnis natus quaerat doloremque aliquam facilis. Sequi dolore eum excepturi eos totam.",
+    "date": "1995-07-16T01:13:12.000Z"
+  },
+  {
+    "_id": "5a9427648b0beebeb6957ba5",
+    "name": "Shawn Mccormick",
+    "email": "shawn_mccormick@fakegmail.com",
+    "movie_id": "573a1391f29313caabcd8543",
+    "text": "Quisquam doloremque odio nostrum enim accusantium deleniti. Itaque magni vitae facere. Expedita distinctio et possimus. Quas optio rem architecto quis distinctio magni.",
+    "date": "1983-02-24T17:57:36.000Z"
+  },
+  {
+    "_id": "5a9427648b0beebeb6957ba7",
+    "name": "Rodrik Cassel",
+    "email": "ron_donachie@gameofthron.es",
+    "movie_id": "573a1391f29313caabcd8543",
+    "text": "Quae magnam officiis nihil sapiente modi qui esse porro. Ratione officiis molestiae perferendis iusto atque deserunt vel error. Rem aliquam ducimus perferendis illum explicabo quod minus.",
+    "date": "2011-08-11T22:12:38.000Z"
+  }
+]

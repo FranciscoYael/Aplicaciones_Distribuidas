@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
+  <diagram name="Página-1" id="cEJwoPyVJdv5mc5BXOn9">
+    <mxGraphModel dx="829" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-90" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;legacyAnchorPoints=0;flipV=0;" value="BSC (d)" vertex="1">
+          <mxGeometry height="300" width="100" x="377" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-91" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;legacyAnchorPoints=0;flipV=0;" value="BTS (d)" vertex="1">
+          <mxGeometry height="300" width="100" x="490" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-92" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;legacyAnchorPoints=0;flipV=0;" value="MSC (d)" vertex="1">
+          <mxGeometry height="300" width="100" x="263" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-93" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;legacyAnchorPoints=0;flipV=0;" value="GMSC (o)" vertex="1">
+          <mxGeometry height="300" width="100" x="150" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-94" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;legacyAnchorPoints=0;flipV=0;" value="ME" vertex="1">
+          <mxGeometry height="300" width="100" x="610" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-95" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Solicitud de handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="120" y="150" as="sourcePoint" />
+            <mxPoint x="200" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-98" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Realizar handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="200.5" y="170" as="sourcePoint" />
+            <mxPoint x="313.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-99" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Alojar número de handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="313.5" y="180" as="sourcePoint" />
+            <mxPoint x="660.5" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-100" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Solicitud de handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="313.5" y="210" as="sourcePoint" />
+            <mxPoint x="427.5" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-101" edge="1" parent="1" source="-j_RLfVSfJdHFy_KBVDP-90" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="-j_RLfVSfJdHFy_KBVDP-91" value="Solicitud de handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="450" y="229.5" as="sourcePoint" />
+            <mxPoint x="530" y="229.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-102" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Mandar reporte de handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="660.5" y="250" as="sourcePoint" />
+            <mxPoint x="313.5" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-103" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="ACK de slicitud de handover">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="427.5" y="280" as="sourcePoint" />
+            <mxPoint x="313.5" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-104" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Canal de radio ACK">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="313.5" y="300" as="sourcePoint" />
+            <mxPoint x="200.5" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-j_RLfVSfJdHFy_KBVDP-105" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="Dirección de mensaje inicial">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="200.5" y="320" as="sourcePoint" />
+            <mxPoint x="313.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
